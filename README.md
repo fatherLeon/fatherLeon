@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![fatherLeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatherLeon&show_icons=true&theme=dark)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gang3007)](https://solved.ac/gang3007/)
+
+![fatherLeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatherLeon&show_icons=true&theme=dark)
 
 <!---
 fatherLeon/fatherLeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
